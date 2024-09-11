@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Gabriel
 
 ## About Me
 I'm passionate about technology and currently studying to become a future **DevOps** engineer. I have a strong interest in automation, infrastructure as code, and optimizing processes for software development.
