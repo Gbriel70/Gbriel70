@@ -12,10 +12,12 @@ Currently, I'm improving my skills in:
 
 ## 🛠️ Technologies and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+  <a href="https://github.com/augustocesar99">
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=augustocesar99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocesar99&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ## 🌱 Currently Learning
 - DevOps: Docker, Kubernetes, Ansible, CI/CD, Terraform, and automation.
