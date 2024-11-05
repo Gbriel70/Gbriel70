@@ -14,7 +14,7 @@ Currently, I'm improving my skills in:
 
 <div align="center">
   <a href="https://github.com/Gbriel70">
-    <a href="https://github.com/oakoudad/badge42" align="center"><img src="https://badge.mediaplus.ma/greenbinary/gcosta-m?1337Badge=off&UM6P=off" alt="gcosta-m 42 stats" /></a>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/gcosta-m?1337Badge=off" alt="gcosta-m's 42 stats" /></a>
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gbriel70&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbriel70&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
