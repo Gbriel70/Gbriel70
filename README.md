@@ -12,12 +12,17 @@ Currently, I'm improving my skills in:
 
 ## 🛠️ Technologies and Tools
 
-<div align="center">
-  <a href="https://github.com/Gbriel70">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gbriel70&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbriel70&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+<div align=center>
+
+<picture>
+	<img alt="Status" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/overview.svg" height="100%">
+</picture>
+<picture>
+	<img alt="Languages" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/languages.svg" height="100%">
+</picture>
+
 </div>
+<div align="left"> </div>
 
 
 ##  42 achievements
