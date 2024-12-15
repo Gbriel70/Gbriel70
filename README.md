@@ -21,3 +21,8 @@ Currently, I'm improving my skills in:
 
 ## 🌱 Currently Learning
 - DevOps: Docker, Kubernetes, Ansible, CI/CD, Terraform, and automation.
+
+## 42 achievements
+<div align="center">
+   <a href="https://github.com/Gbriel70/libft" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
+   <\div>
