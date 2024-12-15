@@ -12,18 +12,14 @@ Currently, I'm improving my skills in:
 
 ## 🛠️ Technologies and Tools
 
-<div align=center>
-
-<picture>
-	<img alt="Status" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/overview.svg" height="100%">
-</picture>
-<picture>
-	<img alt="Languages" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/languages.svg" height="100%">
-</picture>
-
+<div align="center">
+  <picture>
+    <img alt="Status" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/overview.svg" width="100%">
+  </picture>
+  <picture>
+    <img alt="Languages" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/languages.svg" width="100%">
+  </picture>
 </div>
-<div align="left"> </div>
-
 
 ##  42 achievements
 <div align="center">
