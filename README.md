@@ -25,4 +25,7 @@ Currently, I'm improving my skills in:
 ## 42 achievements
 <div align="center">
    <a href="https://github.com/Gbriel70/libft" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
-   <\div>
+   <a href="https://github.com/Gbriel70/get_next_line" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png"></a>
+   <a href="https://github.com/Gbriel70/ft_printf" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png"></a>
+   <a href="https://github.com/Gbriel70/born2beroot" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png"></a>
+</div>
