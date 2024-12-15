@@ -20,7 +20,7 @@ Currently, I'm improving my skills in:
 </div>
 
 
-## 42 achievements
+##  42 achievements
 <div align="center">
    <a href="https://github.com/Gbriel70/libft" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
    <a href="https://github.com/Gbriel70/get_next_line" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png"></a>
