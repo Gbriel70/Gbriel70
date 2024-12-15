@@ -19,8 +19,6 @@ Currently, I'm improving my skills in:
   </a>
 </div>
 
-## 🌱 Currently Learning
-- DevOps: Docker, Kubernetes, Ansible, CI/CD, Terraform, and automation.
 
 ## 42 achievements
 <div align="center">
