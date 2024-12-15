@@ -13,12 +13,10 @@ Currently, I'm improving my skills in:
 ## 🛠️ Technologies and Tools
 
 <div align="center">
-  <picture>
-    <img alt="Status" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/overview.svg" width="100%">
-  </picture>
-  <picture>
-    <img alt="Languages" src="https://raw.githubusercontent.com/Gbriel70/github-stats-transparent/output/generated/languages.svg" width="100%">
-  </picture>
+  <a href="https://www.linkedin.com/in/gabriel-costa/" target="_blank" rel="noopener noreferrer">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gbriel70&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbriel70&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ##  42 achievements
