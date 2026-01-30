@@ -36,7 +36,7 @@ tech i work with:
     <a href="https://github.com/Gbriel70/Fdf_42" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png"></a>
     <a href="https://github.com/Gbriel70/Minishell" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/minishelle.png"></a>
     <br>
-    <a href="https://github.com/Gbriel70/Philosophers_42" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png"></a>
+    <a href="https://github.com/Gbriel70/Philosophers" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png"></a>
     <a href="https://github.com/Gbriel70/NetPratice" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/netpracticee.png"></a>
     <a href="https://github.com/Gbriel70/CUBE3D" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cub3dm.png"></a>
     <a href="https://github.com/Gbriel70/42_CPPS" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png"></a>
