@@ -11,6 +11,8 @@ tech i work with:
     <br>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ansible-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   </li>
   <li><b>languages</b>: 
     <br>
