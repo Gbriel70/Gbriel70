@@ -44,5 +44,5 @@ tech i work with:
     <a href="https://github.com/Gbriel70/42_CPPS" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png"></a>
     <a href="https://github.com/Gbriel70/Inception" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/inceptione.png"></a>
     <a href="https://github.com/Gbriel70/Webserver" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/webserve.png"></a>
-    <a href="https://github.com/Gbriel70/Transendense" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/transendensesm.png"></a>
+    <a href="https://github.com/Gbriel70/ft_transcendence" target="_blank"><img height=100 src="https://github.com/byaliego/42-project-badges/raw/main/badges/transcendensesm.png"></a>
 </div>
